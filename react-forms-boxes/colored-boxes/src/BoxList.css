@@ -1,0 +1,8 @@
+.BoxList {
+    background-color: antiquewhite;
+    border: solid black 1px;
+    min-height: 150px;
+    padding: 20px;
+    justify-content: center;
+
+}

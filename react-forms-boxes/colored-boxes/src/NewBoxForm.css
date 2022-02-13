@@ -1,0 +1,27 @@
+.NewBoxForm {
+    background-color: lightblue;
+    display:inline-block;
+}
+
+.NewBoxForm-input {
+    width: 20%;
+    padding: 10px;
+    margin: 5px 20px 10px 5px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.NewBoxForm-btn {
+    background-color: darkslategray;
+    display:flex;
+    color: white;
+    padding: 14px 20px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
