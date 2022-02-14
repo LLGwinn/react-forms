@@ -1,0 +1,9 @@
+.TodoList {
+    border: solid black 1px;
+    margin-top: 20px;
+}
+
+.TodoList-ul {
+    text-align: left;
+    list-style-position: inside;
+}
